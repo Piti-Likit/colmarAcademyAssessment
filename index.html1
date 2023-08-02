@@ -21,17 +21,31 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
     
-    </section>
+    <div class="information">
+        <div class="pic1">
+            <img src="C:\Users\ASUS\Desktop\2-August-2023\colmarAssessment\capstone_colmar_assets\images\information-main.jpg"/>
+        </div>
 
-    <section class="information">
-        <div>    </div>
+        <div class="pic2">
+            <img src="C:\Users\ASUS\Desktop\2-August-2023\colmarAssessment\capstone_colmar_assets\images\information-orientation-mobile.jpg"/>
+        </div>
 
-    </section>
+        <div class="pic3">
+            <img src=""/>
+        </div>
 
-    <section class="course">
-        <div>      </div>
+        <div class="pic4">
+            <img src=""/>
+        </div>
 
-    </section>
+    </div>
+
+    <div class="course">      
+    
+        img src="
+    
+    </div>
+
 
     <section class="thesis">
         <div>       </div>
